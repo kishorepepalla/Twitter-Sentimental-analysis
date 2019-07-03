@@ -1,0 +1,1 @@
+created_at,user.location,user.followers_count,user.friends_count,text,place.bounding_box.coordinates,place.full_name,place.country,place.country_code,place.place_type
